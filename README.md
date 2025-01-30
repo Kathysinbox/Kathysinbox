@@ -1,4 +1,8 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/0B90H-rTET-1mNVBnV2k3a1BjV1E/view?usp=sharing&resourcekey=0-6DdAMALeUzs0WTGt6m4kqg">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/0B90H-rTET-1mNVBnV2k3a1BjV1E/view?usp=sharing&resourcekey=0-6DdAMALeUzs0WTGt6m4kqg">
+ <img alt="- 🌱 I’m currently learning ..." src="- 🌱 I’m currently learning ...">
+</picture>
 
 <!--
 **Kathysinbox/Kathysinbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
